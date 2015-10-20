@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ListViewParse</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="textoTituloField">Titulo</string>
+    <string name="textoValorField">valor</string>
+    <string name="textoBotonEntrada">boton</string>
+
+    <string-array name="fi">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+        <item>Item 4</item>
+        <item>Item 5</item>
+        <item>Item 6</item>
+    </string-array>
+
+</resources>
