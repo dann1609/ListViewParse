@@ -48,6 +48,9 @@ public class MainActivity extends AppCompatActivity {
     public void SendIt(View view) {
         new SendData().execute();
     }
+    public void GetIt(View view) {
+        new GetData().execute();
+    }
 
     private class SendData extends AsyncTask<Void,Void,Void> {
 
